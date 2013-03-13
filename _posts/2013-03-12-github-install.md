@@ -35,7 +35,7 @@ tags: [github]
 
 `git push origin master`
 
-### 3 、**等待GitHup发布完成**
+### 3 、**等待GitHub发布完成**
 
 这可以需要几分钟时间，请耐心等待，等待发布成功后，就可以访问`你的名字.github.com`
 
